@@ -1,5 +1,4 @@
-﻿//123456
-using OpenQA.Selenium.Appium.Windows;
+﻿using OpenQA.Selenium.Appium.Windows;
 using OpenQA.Selenium.Appium;
 using System;
 using System.Collections.Specialized;
